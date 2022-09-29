@@ -1,0 +1,5 @@
+.gym-container{
+    display: grid;
+    grid-template-columns: 9fr 3fr;
+    background-color: aqua;
+}

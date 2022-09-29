@@ -1,0 +1,12 @@
+.title{
+    background: #000;
+}
+.title h2{
+    font-size: 2rem;
+    padding: 10px 0;
+    margin-left: 2%;
+    color: lightgrey;
+}
+.title-icon{
+    color: red;
+}
